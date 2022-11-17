@@ -1,1 +1,1 @@
-[![Sanjyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjyotagureddy&show_icons=true&theme=vision-friendly-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Sanjyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjyotagureddy&show_icons=true&theme=cobalt)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjyotagureddy&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
