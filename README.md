@@ -15,6 +15,9 @@ I'm currently working on a personal learning project to develop an e-commerce we
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanjyotagureddy&theme=synthwave&no-frame=true&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sanjyotagureddy&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
